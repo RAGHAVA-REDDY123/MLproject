@@ -32,7 +32,7 @@ The trained model is integrated with a Streamlit app (app.py).
 Users can interact with the app via a simple web interface to classify their email text.
 
 -----------Technologies Used---------
-Python: For preprocessing and model development.
+Python: For preprocessing and model development. 
 TensorFlow/Keras: For building and training the LSTM model.
 Streamlit: For creating an interactive web application.
 NLP Libraries: NLTK/Spacy for text preprocessing.
