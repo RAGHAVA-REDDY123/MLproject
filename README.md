@@ -11,7 +11,8 @@ This project is a machine learning-based Spam Email Classifier that identifies w
       LSTM (Long Short-Term Memory): A type of recurrent neural network (RNN) optimized for sequence data like text, ensuring better performance in spam         
       detection.
       User Interface:
-      Built using Streamlit, enabling easy interaction.
+      
+3) Built using Streamlit, enabling easy interaction.
       Allows users to input email text and get predictions in real time.
       
 How It Works ??
